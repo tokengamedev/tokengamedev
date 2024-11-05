@@ -4,7 +4,8 @@ Welcome to my Profile ✨ **Token Gamedev** ✨. My actual name is _Prakash Das_
 Token GameDev is a profile account to handle AI tools and Search Engines, so that I can primarily focus on one and only one thing i.e., _Game Development_
 
 Interested primarily in Game Dvelopement. If required invest time in Mobile App development and Web Development.
-Also work on developing open source tools, addons and plugins for Godot Game Engine.
+Also work on developing open source tools, addons and plugins for Godot and other game engines like Blazium and Redot.
+Also active contributor to Blzaium and Redot game engines.
 
 Your support will be appreciated.
 
@@ -14,6 +15,7 @@ Worked on developing games with multiple game engines like Unity and Cocos2d and
 🎓 **Experience ...**<br>
 Have more than two decades of experience in developing software. Developed windows apps, server apps, web apps and more.
 Have worked and experience in developing applications using languages HTML/JavaScript, C#, Java, Kotlin, C++, Python, GDScript and many more 
+If you want to hire me please reach out to me for any help required.
 
 >⚡ **Fun fact:** Favourite language is C++ (all time) and GDScript (current) and Magik (historical)
 
@@ -24,11 +26,11 @@ Have worked and experience in developing applications using languages HTML/JavaS
   - Current
     - ColorJam
 - Godot Android Modules:  Bunch of plugins for advanced android integration with Godot
-- Insights: Open source research based on public data and reports from various orgs
-- Godot Performance : A list of performance tests for benchmarking Godot Game engine
 
-🏖️ **In Spare time I do...**
+🏖️ Also I am planning to start Game development stream in twitch/Youtube as well as Game playing stream, inspired from some of the game commentators in tournaments.
 
-Play Games in PC.
+🎮 Games I Play (on PC):
 
->⚡ **Fun fact:** Favourite game AOE 2 (Playing for last 20+ Years)
+>⚡ AOE2/AOE3/AOM - Favourite of them AOE 2 (Playing for last 25+ Years)
+
+> 🧮 The Witcher 3
